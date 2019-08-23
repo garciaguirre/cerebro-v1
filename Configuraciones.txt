@@ -1,0 +1,8 @@
+[APIKeys]
+apiHunter=
+apiShodan=
+apiIpnfodb=
+apiVirusTotal=
+tokenSpy=
+apiBing=
+apiHIBP=
