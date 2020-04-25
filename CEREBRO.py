@@ -1316,7 +1316,7 @@ lblDescripcion.config(bg="#ffffff",font=('', 12, ''))
 lblDescripcion.grid(column = 3, row = 1, sticky=W+E+N+S, pady=5, padx=25, rowspan=3)
 
 def abrirManual():
-     os.system("manual.pdf")
+     os.system("manual_cerebro.pdf")
 
 btnManual=Button(lblFramSet2, text="->Manual de uso<-", command=abrirManual)
 btnManual.config(bg="#ff8b00", bd=0, activebackground="#1cb3c8", activeforeground="#ffffff", font=20)
